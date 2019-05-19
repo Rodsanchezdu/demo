@@ -1,4 +1,7 @@
-{ 
+{
+  "prueba":
+  [
+  
    {  
       "especie":"Leu00f3n",
       "descripcion":"El leu00f3n (Panthera leo) es un mamu00edfero carnu00edvoro ...",
@@ -24,5 +27,6 @@
       "descripcion":"El u00e1guila calva (Haliaeetus leucocephalus), tambiu00e9n ...",
       "imagen":"aguila"
    }
+]
 }
 
