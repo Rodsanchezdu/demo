@@ -1,6 +1,14 @@
-  
-   {  
-      "especie":"Leu00f3n",
-      "descripcion":"El leu00f3n (Panthera leo) es un mamu00edfero carnu00edvoro ...",
-      "imagen":"leon"
-   }
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
